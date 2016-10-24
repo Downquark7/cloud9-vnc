@@ -8,7 +8,11 @@ Running X11 in a Cloud9 workspace.
 Installation
 ------------
 
-    bash <(curl -s https://raw.githubusercontent.com/Downquark7/cloud9-vnc/master/installer.sh)
+    cd /home/ubuntu/workspace/
+    git clone https://github.com/Downquark7/cloud9-vnc.git
+    cd /home/ubuntu/workspace/cloud9-vnc/
+    sudo apt-get update
+    ./install.sh
 
 Running
 -------
