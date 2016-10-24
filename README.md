@@ -8,7 +8,7 @@ Running X11 in a Cloud9 workspace.
 Installation
 ------------
 
-    sudo su && bash <(curl -s https://raw.githubusercontent.com/Downquark7/cloud9-vnc/master/installer.sh) && exit && cd /home/ubuntu/workspace/ && ./run.sh
+    sudo su && bash <(curl -s https://raw.githubusercontent.com/Downquark7/cloud9-vnc/master/installer.sh) && exit && cd /home/ubuntu/workspace/
 
 Running
 -------
