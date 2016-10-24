@@ -3,5 +3,5 @@
 cd /home/ubuntu/workspace/
 git clone https://github.com/Downquark7/cloud9-vnc.git
 cd /home/ubuntu/workspace/cloud9-vnc/
-bash install.sh
-bash run.sh
+./install.sh
+./run.sh
