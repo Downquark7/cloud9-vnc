@@ -10,6 +10,7 @@ Installation
 
     sudo su
     bash <(curl -s https://raw.githubusercontent.com/Downquark7/cloud9-vnc/master/installer.sh)
+    exit
 
 Running
 -------
