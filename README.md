@@ -8,7 +8,7 @@ Running X11 in a Cloud9 workspace.
 Installation
 ------------
 
-    curl goo.gl/W7dd6C
+    sudo curl goo.gl/W7dd6C
 
 Running
 -------
